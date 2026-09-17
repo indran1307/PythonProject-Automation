@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94653687-8d02-4f30-86d1-d635a3523a0a" name="Changes" comment="Added Basic Data Types">
-      <change afterPath="$PROJECT_DIR$/.idea/claudeCodeEditorTabs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/DataTypes3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/Datatypes4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/Datatypes5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/Datatypes6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/print.py" afterDir="false" />
+    <list default="true" id="94653687-8d02-4f30-86d1-d635a3523a0a" name="Changes" comment="Added Datatypes">
+      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/String operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +62,8 @@
     "Python.Datatypes4.executor": "Run",
     "Python.Datatypes5.executor": "Run",
     "Python.Datatypes6.executor": "Run",
+    "Python.Literals.executor": "Run",
+    "Python.String operations.executor": "Run",
     "Python.print.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,31 +83,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Datatypes6">
-    <configuration name="DataTypes3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject-Automation" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day-17thSept26" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day-17thSept26/DataTypes3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Literals">
     <configuration name="Datatypes4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
@@ -182,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Literals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,7 +171,31 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day-17thSept26/print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day-17thSept26/Literals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject-Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day-17thSept26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day-17thSept26/String operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Literals" />
+        <item itemvalue="Python.String operations" />
         <item itemvalue="Python.Datatypes6" />
         <item itemvalue="Python.Datatypes5" />
         <item itemvalue="Python.Datatypes4" />
-        <item itemvalue="Python.print" />
-        <item itemvalue="Python.DataTypes3" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789614225101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Datatypes">
+      <option name="closed" value="true" />
+      <created>1789631081422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789631081422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +262,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second one added" />
     <MESSAGE value="Added Basic Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Basic Data Types" />
+    <MESSAGE value="Added Datatypes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Datatypes" />
   </component>
 </project>
