@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94653687-8d02-4f30-86d1-d635a3523a0a" name="Changes" comment="Added String operations">
+    <list default="true" id="94653687-8d02-4f30-86d1-d635a3523a0a" name="Changes" comment="Added operators">
+      <change afterPath="$PROJECT_DIR$/Src/Day-17thSept26/Operators2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/Conditions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Day-17thSept26/Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Day-17thSept26/Operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Basics.executor": "Run",
+    "Python.Conditions.executor": "Run",
     "Python.DataTypes3.executor": "Run",
     "Python.Datatypes.executor": "Run",
     "Python.Datatypes2.executor": "Run",
@@ -63,6 +65,7 @@
     "Python.Datatypes6.executor": "Run",
     "Python.Literals.executor": "Run",
     "Python.Operators.executor": "Run",
+    "Python.Operators2.executor": "Run",
     "Python.String operations.executor": "Run",
     "Python.print.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -83,8 +86,8 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Operators">
-    <configuration name="Datatypes5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Conditions">
+    <configuration name="Conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,37 +96,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day-17thSept26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day-17thSept26/Datatypes5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Datatypes6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject-Automation" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day-17thSept26" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day-17thSept26/Datatypes6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26/Conditions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,6 +159,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Operators2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject-Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day-17thSept26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day-17thSept26/Operators2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="String operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
@@ -206,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Conditions" />
+        <item itemvalue="Python.Operators2" />
         <item itemvalue="Python.Operators" />
         <item itemvalue="Python.Literals" />
         <item itemvalue="Python.String operations" />
-        <item itemvalue="Python.Datatypes6" />
-        <item itemvalue="Python.Datatypes5" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789642531543</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added operators">
+      <option name="closed" value="true" />
+      <created>1789643039570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789643039570</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +283,18 @@
     <MESSAGE value="Added Basic Data Types" />
     <MESSAGE value="Added Datatypes" />
     <MESSAGE value="Added String operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added String operations" />
+    <MESSAGE value="Added operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added operators" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/Day2-18thSept26/Conditions.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
