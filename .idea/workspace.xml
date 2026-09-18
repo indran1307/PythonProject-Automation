@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94653687-8d02-4f30-86d1-d635a3523a0a" name="Changes" comment="Added Conditions">
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/Practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26/while.py" afterDir="false" />
+    <list default="true" id="94653687-8d02-4f30-86d1-d635a3523a0a" name="Changes" comment="NA">
+      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Day2-18thSept26-2/practiceF.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Day2-18thSept26-2/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Day2-18thSept26-2/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,11 @@
     "Python.Datatypes4.executor": "Run",
     "Python.Datatypes5.executor": "Run",
     "Python.Datatypes6.executor": "Run",
+    "Python.Functions2.executor": "Run",
+    "Python.Functions3.executor": "Run",
+    "Python.Functions4.executor": "Run",
+    "Python.Functions5.executor": "Run",
+    "Python.Functions6.executor": "Run",
     "Python.Literals.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Match.executor": "Run",
@@ -77,6 +81,7 @@
     "Python.Practice.executor": "Run",
     "Python.String operations.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.practiceF.executor": "Run",
     "Python.print.executor": "Run",
     "Python.while.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -97,8 +102,13 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.functions">
-    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nin100\PycharmProjects\PythonProject-Automation\Src\Day2-18thSept26-2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.practiceF">
+    <configuration name="Functions3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,13 +117,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26/Loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,13 +141,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26/Match.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,13 +165,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26/Practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,13 +189,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\nin100\PycharmProjects\PythonProject-Automation\Src\Day2-18thSept26-2\functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26-2/Functions6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practiceF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,13 +213,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Day2-18thSept26-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26/while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Day2-18thSept26-2/practiceF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.functions" />
-        <item itemvalue="Python.Practice" />
-        <item itemvalue="Python.Match" />
-        <item itemvalue="Python.while" />
-        <item itemvalue="Python.Loops" />
+        <item itemvalue="Python.practiceF" />
+        <item itemvalue="Python.Functions6" />
+        <item itemvalue="Python.Functions5" />
+        <item itemvalue="Python.Functions4" />
+        <item itemvalue="Python.Functions3" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789697523788</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="NA">
+      <option name="closed" value="true" />
+      <created>1789716584581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1789716584581</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +322,8 @@
     <MESSAGE value="Added String operations" />
     <MESSAGE value="Added operators" />
     <MESSAGE value="Added Conditions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Conditions" />
+    <MESSAGE value="NA" />
+    <option name="LAST_COMMIT_MESSAGE" value="NA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
